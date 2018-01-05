@@ -1,0 +1,11 @@
+ID:1
+width:69
+height:51
+zoom:2
+mult:5
+texture:Textures/Maps/testmap4.png
+hitmap:Textures/Hitmaps/testmap4hitmap.png
+sound:
+playerpos:32,50
+enemies:
+transitions:31,51#32,51#33,51#34,51&0:

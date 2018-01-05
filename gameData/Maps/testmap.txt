@@ -1,0 +1,11 @@
+ID:0
+width:60
+height:34
+zoom:2
+mult:1.5
+texture:Textures/Maps/testmap3.png
+hitmap:Textures/Hitmaps/testmap3Hit.png
+sound:
+playerpos:20,27
+enemies:hog#18,26
+transition:5,3&1

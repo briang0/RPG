@@ -1,0 +1,11 @@
+ID:int
+width:int(number of 32x32 tiles)
+height:int(number of 32x32 tiles)
+zoom:float
+mult:float
+texture:string
+hitmap:string
+sound:string
+playerpos:int,int
+enemies:string#int,int$etc...
+transitions:
